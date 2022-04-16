@@ -28,6 +28,6 @@ Hi! I'm Alan, Full Stack Developer
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/alan-durich/" ><img width="5%" src="https://github.com/ADurich/ADurich/blob/main/images/linkedin.png"> &nbsp;
+<a href="https://www.linkedin.com/in/alandurich/" ><img width="5%" src="https://github.com/ADurich/ADurich/blob/main/images/linkedin.png"> &nbsp;
 <a href="https://wa.link/furli3" ><img width="5%" src="https://github.com/ADurich/ADurich/blob/main/images/whatsapp.png">
 </span>
