@@ -18,7 +18,6 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PostgreSQL"],
    },
-   currentOccupation: ["Tech Instructor at Henry"],
 };
 ```
 &nbsp;&nbsp;
