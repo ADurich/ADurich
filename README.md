@@ -1,10 +1,27 @@
-
+<p align="center"><img src="https://github.com/ADurich/ADurich/blob/main/images/hello.svg"></p>
 <h2 align="center">
 Hi! I'm Alan, Full Stack Developer
 </h2>
 
 &nbsp;&nbsp;
 
+```javascript
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "PostgreSQL"],
+   },
+   currentOccupation: ["Tech Instructor at Henry"],
+};
+```
+&nbsp;&nbsp;
 
 ## :star: Languages and Skills:
 
