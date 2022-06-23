@@ -42,6 +42,23 @@ const aboutMe = {
 
 &nbsp;
 
+## :pushpin: My proyects
+
+<p>
+  <a><img width="300px" height="150px" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage2.png"></a>
+  <a><img width="300px" height="150px" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage3.png"></a>
+</p>
+<p>
+  <a><img width="300px" height="150px" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage4.png"></a>
+</p>
+
+<p>
+  <a><img width="300px" height="200px" src="https://github.com/ADurich/WeatherApp/blob/main/weatherImages/weather1.png"></a>
+  <a><img width="300px" height="200px" src="https://github.com/ADurich/WeatherApp/blob/main/weatherImages/weather2.png"></a>
+</p> 
+&nbsp;
+
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/alandurich/" ><img width="5%" src="https://github.com/ADurich/ADurich/blob/main/images/linkedin.png"> &nbsp;
